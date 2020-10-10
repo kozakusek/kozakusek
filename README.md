@@ -1,12 +1,14 @@
 ### Hi there 👋
 I am a second year CS student from MIM faculty at University of Warsaw.
 
-###### In unforeseeable future will the links to my "social accounts" be here:
+##### In unforeseeable future will the links to my "social" accounts be here:
+
 - [ ] Hackerrank:
 - [ ] Codeforces:
 - [ ] Something that I will find on another student github and find interesting:
 
-###### Have a nice day!
+
+### Have a nice day!
 ![Image](https://github.com/kozakusek/kozakusek/blob/main/happy_racoon.jpg)
 <!--
 **kozakusek/kozakusek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
