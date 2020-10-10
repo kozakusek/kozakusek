@@ -7,7 +7,7 @@ I am a second year CS student from MIM faculty at University of Warsaw.
 - [ ] Something that I will find on another student github and find interesting:
 
 ###### Have a nice day!
-![Image](https://github.com/kozakusek/kozakusek/happy_racoon.jpg)
+![Image](https://github.com/kozakusek/kozakusek/blob/main/happy_racoon.jpg)
 <!--
 **kozakusek/kozakusek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
