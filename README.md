@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I am a second year CS student from MIM faculty at University of Warsaw.
 
 ##### In unforeseeable future will the links to my "social" accounts be here:
@@ -7,7 +7,7 @@ I am a second year CS student from MIM faculty at University of Warsaw.
 - [ ] Codeforces  
 - [ ] Something that I will find on another student github and find interesting:
 
-##### My more interesting projects
+### My more interesting projects
 
 - [Djagno website for **_D&D_** players](https://github.com/kozakusek/bd_proj)
 - [Functional plotter for cubic Bézier curves in C++]
