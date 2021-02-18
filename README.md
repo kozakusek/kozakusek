@@ -3,8 +3,8 @@ I am a second year CS student from MIM faculty at University of Warsaw.
 
 ##### In unforeseeable future will the links to my "social" accounts be here:
 
-- [ ] Hackerrank:
-- [ ] Codeforces:
+- [X] [Hackerrank](https://www.hackerrank.com/kozakusek)
+- [ ] Codeforces  
 - [ ] Something that I will find on another student github and find interesting:
 
 ##### My more interesting projects
