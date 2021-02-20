@@ -10,7 +10,7 @@ I am a second year CS student from MIM faculty at University of Warsaw.
 ### My more interesting projects
 
 - [Djagno website for **_D&D_** players](https://github.com/kozakusek/bd_proj)
-- [Functional plotter for cubic Bézier curves in C++]
+- [Functional plotter for cubic Bézier curves in C++](https://github.com/kozakusek/Bezier)
 - [Simple console game **_Gamma_** in C](https://github.com/kozakusek/IPP/tree/master/duze%20zadanie)
 - [Actor system in C/Unix with simple demonstration on matrix row-sums and factorials]
 
