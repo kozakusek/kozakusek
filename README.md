@@ -1,6 +1,6 @@
 # Project k.o.z.a.k.u.s.e.k. 🐱‍👤
 ![](https://komarev.com/ghpvc/?username=kozakusek&color=blueviolet)
-![Linkedin Badge](https://img.shields.io/badge/-kozakusek-informational?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bart%C5%82omiej-kozaryna-52422321b/)  
+[![Linkedin Badge](https://img.shields.io/badge/-kozakusek-informational?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bart%C5%82omiej-kozaryna-52422321b/)  
 __Currently:__  
  🎪 Third year CS student from MIM faculty at University of Warsaw  
  🎪 First year Math student ibidem   
