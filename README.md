@@ -1,19 +1,19 @@
 # Project k.o.z.a.k.u.s.e.k. 🐱‍👤
 ![](https://komarev.com/ghpvc/?username=kozakusek&color=blueviolet)
-![Linkedin Badge](https://img.shields.io/badge/-kozakusek-informational?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bart%C5%82omiej-kozaryna-52422321b/)
-### Currently:
+![Linkedin Badge](https://img.shields.io/badge/-kozakusek-informational?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bart%C5%82omiej-kozaryna-52422321b/)  
+__Currently:__  
  🎪 Third year CS student from MIM faculty at University of Warsaw  
  🎪 First year Math student ibidem   
  🎪 C++ Intern at Samsung R&D Institute   
 
-### Formely:
+__Formely:__  
  🤡 No-one
 
-### In progress:
+__In progress:__  
  🐒 Research of IT fields to maximise happiness   
  🐒 Development of faith in the UW CS programme  
  
-### Future development:
+__Future development:__  
  📈 Machine Learning  
  📈 Cybersecurity
 
@@ -26,7 +26,7 @@
 
 ## 📊 Raw github data
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kozakusek&show_icons=true&theme=tokyonight)  
+![Github stats](https://github-readme-stats.vercel.app/api?username=kozakusek&show_icons=true&theme=tokyonight)
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kozakusek&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)
 
 ## Have a nice day! 👋
