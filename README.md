@@ -19,6 +19,7 @@ __Future development:__
 
 ## 🛠 Some "more interesting" projects @github 
 
+- [Two simple x86_64 Assembly programmes](https://github.com/kozakusek/asm-so)
 - [Djagno website for **_D&D_** players](https://github.com/kozakusek/bd_proj)
 - [Functional plotter for cubic Bézier curves in C++](https://github.com/kozakusek/Bezier)
 - [Simple console game **_Gamma_** in C](https://github.com/kozakusek/IPP/tree/master/duze%20zadanie)
