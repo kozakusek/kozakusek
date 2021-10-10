@@ -3,11 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-kozakusek-informational?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bart%C5%82omiej-kozaryna-52422321b/)  
 __Currently:__  
  🎪 Third year CS student from MIM faculty at University of Warsaw  
- 🎪 First year Math student ibidem   
- 🎪 C++ Intern at Samsung R&D Institute   
+ 🎪 First year Math student ibidem      
 
 __Formely:__  
- 🤡 No-one
+ 🎪 Software Engineering Intern at Samsung R&D Institute
 
 __In progress:__  
  🐒 Research of IT fields to maximise happiness   
