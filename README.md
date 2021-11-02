@@ -16,7 +16,7 @@ __Future development:__
  📈 Machine Learning  
  📈 Cybersecurity
 
-## 🛠 Some "more interesting" projects @github 
+## 🛠 Some "more interesting" projects on github 
 
 - [Two simple x86_64 Assembly programmes](https://github.com/kozakusek/asm-so)
 - [Djagno website for **_D&D_** players](https://github.com/kozakusek/bd_proj)
