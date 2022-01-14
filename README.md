@@ -30,5 +30,5 @@ __Future development:__
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kozakusek&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)
 
 ## Have a nice day! 👋
-![Image](https://github.com/kozakusek/kozakusek/blob/main/happy_racoon.jpg)
+![Image](./happy_racoon.jpg)
 
