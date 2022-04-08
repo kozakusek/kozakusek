@@ -14,7 +14,7 @@ __In progress:__
  
 __Future development:__  
  📈 More Functional Programming  
- 📈 Machine Learning 
+ 📈 Machine Learning  
  📈 Cybersecurity 
 
 ## 🛠 Some "more interesting" projects on github 
