@@ -13,12 +13,14 @@ __In progress:__
  🐒 Development of faith in the UW CS programme  
  
 __Future development:__  
- 📈 Machine Learning  
- 📈 Cybersecurity
+ 📈 More Functional Programming  
+ 📈 Machine Learning 
+ 📈 Cybersecurity 
 
 ## 🛠 Some "more interesting" projects on github 
 
 - [Two simple x86_64 Assembly programmes](https://github.com/kozakusek/asm-so)
+- [Sokoban in Haskell](https://github.com/kozakusek/Sokoban_Hs)
 - [Djagno website for **_D&D_** players](https://github.com/kozakusek/bd_proj)
 - [Functional plotter for cubic Bézier curves in C++](https://github.com/kozakusek/Bezier)
 - [Simple console game **_Gamma_** in C](https://github.com/kozakusek/IPP/tree/master/duze%20zadanie)
