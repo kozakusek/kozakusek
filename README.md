@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-kozakusek-informational?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bart%C5%82omiej-kozaryna-52422321b/)  
 __Currently:__  
  🎪 Third year CS student from MIM faculty at University of Warsaw  
- 🎪 First year Math student ibidem      
 
 __Formely:__  
  🎪 Software Engineering Intern at Samsung R&D Institute
@@ -14,8 +13,8 @@ __In progress:__
  
 __Future development:__  
  📈 More Functional Programming  
- 📈 Machine Learning  
- 📈 Cybersecurity 
+ 📈 I have no idea what to do with my career everything is so exciting please help me
+ 
 
 ## 🛠 Some "more interesting" projects on github 
 
