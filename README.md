@@ -19,6 +19,7 @@ __Future development:__
 ## 🛠 Some "more interesting" projects on github 
 
 - [Two simple x86_64 Assembly programmes](https://github.com/kozakusek/asm-so)
+- [Interpreter of a functional language with type inference written in Haskell](https://github.com/kozakusek/Eazy-Interpreter)
 - [Sokoban in Haskell](https://github.com/kozakusek/Sokoban_Hs)
 - [Djagno website for **_D&D_** players](https://github.com/kozakusek/bd_proj)
 - [Functional plotter for cubic Bézier curves in C++](https://github.com/kozakusek/Bezier)
