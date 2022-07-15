@@ -2,9 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=kozakusek&color=blueviolet)
 [![Linkedin Badge](https://img.shields.io/badge/-kozakusek-informational?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bart%C5%82omiej-kozaryna-52422321b/)  
 __Currently:__  
- 🎪 Third year CS student from MIM faculty at University of Warsaw  
+ 🎪 Fourth year CS student from MIM faculty at University of Warsaw  
+ 🎪 Software Engineering Intern at Facebook London
 
 __Formely:__  
+ 🎪 A member of a student team having fun developing for ScyllaDB  
  🎪 Software Engineering Intern at Samsung R&D Institute
 
 __In progress:__  
