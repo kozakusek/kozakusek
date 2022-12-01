@@ -1,6 +1,8 @@
 # Project k.o.z.a.k.u.s.e.k. 🐱‍👤
 ![](https://komarev.com/ghpvc/?username=kozakusek&color=blueviolet)
 [![Linkedin Badge](https://img.shields.io/badge/-kozakusek-informational?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bart%C5%82omiej-kozaryna-52422321b/)  
+__Contact:__ bk418339@students.mimuw.edu.pl  
+  
 __Currently:__  
  🎪 Fourth year CS student from MIM faculty at University of Warsaw  
  🎪 Software Engineering Intern at Facebook London
