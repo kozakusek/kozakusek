@@ -15,19 +15,15 @@ __In progress:__
  🐒 Research of IT fields to maximise happiness   
  🐒 Development of faith in the UW CS programme  
  
-__Future development:__  
- 📈 More Functional Programming  
- 📈 I have no idea what to do with my career everything is so exciting please help me
  
-
 ## 🛠 Some "more interesting" projects on github 
 
-- [Two simple x86_64 Assembly programmes](https://github.com/kozakusek/asm-so)
+- [LLVM Compiler for Latte language](https://github.com/kozakusek/Latte2LLVM)
+- [Motion Control application for microcontrollers](https://github.com/kozakusek/MicroMCB)
 - [Interpreter of a functional language with type inference written in Haskell](https://github.com/kozakusek/Eazy-Interpreter)
+- [Two simple x86_64 Assembly programmes](https://github.com/kozakusek/asm-so)
 - [Sokoban in Haskell](https://github.com/kozakusek/Sokoban_Hs)
-- [Djagno website for **_D&D_** players](https://github.com/kozakusek/bd_proj)
 - [Functional plotter for cubic Bézier curves in C++](https://github.com/kozakusek/Bezier)
-- [Simple console game **_Gamma_** in C](https://github.com/kozakusek/IPP/tree/master/duze%20zadanie)
 - [Actor system in C/Unix with simple demonstration on matrix row-sums and factorials](https://github.com/kozakusek/CACT)
 
 ## 📊 Raw github data
