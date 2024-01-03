@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-kozakusek-informational?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bart%C5%82omiej-kozaryna-52422321b/)  
   
 __Currently:__  
- 🎪 Fourth year CS student from MIM faculty at University of Warsaw  
+ 🎪 Fifth year CS student from MIM faculty at University of Warsaw  
  🎪 Teaching assistant @MIMUW
 
 __Formely:__  
