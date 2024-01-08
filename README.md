@@ -10,11 +10,6 @@ __Formely:__
  🎪 Software Engineering Intern at Facebook London  
  🎪 A member of a student team having fun developing for ScyllaDB  
  🎪 Software Engineering Intern at Samsung R&D Institute
-
-__In progress:__  
- 🐒 Research of IT fields to maximise happiness   
- 🐒 Development of faith in the UW CS programme  
- 
  
 ## 🛠 Some "more interesting" projects on github 
 
