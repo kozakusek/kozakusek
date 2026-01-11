@@ -18,7 +18,6 @@
 - Premature optimisation
 - Naming things poorly
 
-
-## 👋
+---
 ![Image](./happy_racoon.jpg)
 
